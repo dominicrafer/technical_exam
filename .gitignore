@@ -1,0 +1,10 @@
+node_modules
+aws-exports.js
+*.log*
+.nuxt
+.nitro
+.cache
+.output
+.env
+dist
+web-boilerplate-bricks/**
