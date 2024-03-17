@@ -1,0 +1,32 @@
+{
+  "id": 5,
+  "price": "199.99",
+  "header": {
+    "title": "TRAVEL TRIPOD",
+    "description": "We spent 4 years redesigning the tripod from the ground up, creating a travel tripod that packs down to the diameter of a water bottle—without compromising height, stability, or features.",
+    "product_images": [
+      "/images/products/travel-tripod/1.webp",
+      "/images/products/travel-tripod/1.webp",
+      "/images/products/travel-tripod/1.webp",
+      "/images/products/travel-tripod/1.webp"
+    ],
+    "featured_image": "/images/products/travel-tripod/1.webp"
+  },
+  "features": [
+    {
+      "title": "",
+      "subtitle": "",
+      "list": []
+    }
+  ],
+  "specifications": {
+    "overview": [],
+    "materials": [],
+    "details": [
+      {
+        "title": "",
+        "description": ""
+      }
+    ]
+  }
+}

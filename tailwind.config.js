@@ -12,7 +12,7 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        body: ['"Open Sans"'],
+        body: ['"Bryant"'],
       },
       colors: {
         primary: "#333132",

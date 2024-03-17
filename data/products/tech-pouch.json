@@ -1,0 +1,33 @@
+{
+  "id": 4,
+  "price": "199.99",
+  "header": {
+    "title": "TECH POUCH",
+    "description": "Whether storing cables, everyday gear, or travel essentials, Tech Pouch offers unrivaled organization and ease of access. Origami-style pockets create enormous spatial efficiency, letting you pack more into a smaller space while keeping your items neatly organized and easy to find. Elastic accessory loops keep items like pens, knives, SD cards, and batteries always within reach. Exterior handles and a clamshell-style opening make this pouch a delight to hold and access. External zip pocket has a cable pass-through for easy device charging. The 400D recycled nylon canvas shell is weatherproof and aesthetically clean.",
+    "product_images": [
+      "/images/products/tech-pouch/1.webp",
+      "/images/products/tech-pouch/1.webp",
+      "/images/products/tech-pouch/1.webp",
+      "/images/products/tech-pouch/1.webp",
+      "/images/products/tech-pouch/1.webp"
+    ],
+    "featured_image": "/images/products/tech-pouch/1.webp"
+  },
+  "features": [
+    {
+      "title": "",
+      "subtitle": "",
+      "list": []
+    }
+  ],
+  "specifications": {
+    "overview": [],
+    "materials": [],
+    "details": [
+      {
+        "title": "",
+        "description": ""
+      }
+    ]
+  }
+}

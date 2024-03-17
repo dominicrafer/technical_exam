@@ -1,0 +1,201 @@
+{
+  "id": 1,
+  "price": "199.99",
+  "header": {
+    "title": "EVERYDAY BACKPACK",
+    "description": "An iconic, award-winning pack for everyday and photo carry, the newly revamped Everyday Backpack is built around access, organization, expansion, and protection. Unique MagLatch hardware provides lightning fast top access, with dual side access via two weatherproof UltraZips.",
+    "product_images": [
+      "/images/products/everyday-backpack/1.webp",
+      "/images/products/everyday-backpack/2.webp",
+      "/images/products/everyday-backpack/3.webp",
+      "/images/products/everyday-backpack/4.webp",
+      "/images/products/everyday-backpack/5.jpg",
+      "/images/products/everyday-backpack/6.webp",
+      "/images/products/everyday-backpack/7.webp",
+      "/images/products/everyday-backpack/8.webp"
+    ],
+    "featured_image": "/images/products/everyday-backpack/1.webp"
+  },
+  "features": [
+    {
+      "title": "",
+      "subtitle": "INSTANT ACCESS",
+      "list": [
+        "Fast, secure, one-handed top access via MagLatch hardware",
+        "Dual side access via #8 weatherproof zips",
+        "Extra-durable UltraZip design"
+      ]
+    },
+    {
+      "title": "",
+      "subtitle": "EXPANDABLE",
+      "list": [
+        "MagLatch hardware provides internal expansion. +3L on the 20L bag, +8L on the 30L bag"
+      ]
+    },
+    {
+      "title": "",
+      "subtitle": "CUSTOM ORGANIZATION",
+      "list": [
+        "Brilliantly customizable and protective internal organization via 3 easy-to-configure FlexFold dividers"
+      ]
+    },
+    {
+      "title": "",
+      "subtitle": "POCKETS FOR DAYS",
+      "list": [
+        "Stretchy internal side and top pockets for cards, cords, and more",
+        "Internal slip pockets for wallet, passport, and other important items",
+        "Dual external side pockets stretch to fit water bottles, tripods, etc"
+      ]
+    },
+    {
+      "title": "",
+      "subtitle": "LAPTOP SLEEVE",
+      "list": [
+        "Protective laptop sleeve with pockets for tablets and documents",
+        "Adjustable for easy access to smaller laptops"
+      ]
+    },
+    {
+      "title": "",
+      "subtitle": "EXTERNAL CARRY",
+      "list": [
+        "4 external carry straps for cinching down bulky items via our Cord Hook system",
+        "Straps stow beneath a magnetic sleeve"
+      ]
+    },
+    {
+      "title": "",
+      "subtitle": "ULTIMATE COMFORT",
+      "list": ["Vented, quick-drying mesh back padding for breathable comfort"]
+    },
+    {
+      "title": "",
+      "subtitle": "TRAVEL-FRIENDLY",
+      "list": ["Luggage pass-through for easy and secure roller-top carry"]
+    },
+    {
+      "title": "",
+      "subtitle": "HIP BELT ACCESSORY",
+      "list": [
+        "A padded, stowable Hip Belt accessory is available for purchase for those who want added stability and comfort with heavy loads."
+      ]
+    },
+    {
+      "title": "",
+      "subtitle": "DURABLE & WEATHERPROOF",
+      "list": [
+        "Weatherproof, 100% recycled 400D nylon canvas shell is DWR impregnated, double PU-coated."
+      ]
+    }
+  ],
+  "specifications": {
+    "overview_image": "",
+    "overview": [
+      "1 Everyday Backpack",
+      "3 FlexFold dividers",
+      "1 Sternum Strap",
+      "1 Anchor Link key tether",
+      "4 Cord Hook external carry straps (2 long, 2 short—not pictured)"
+    ],
+    "materials": [
+      "400D double poly-coated DWR-impregnated nylon canvas shell",
+      "100% recycled post-consumer material",
+      "Solution-dyed to save energy & water (Charcoal only)",
+      "900D waterproof bottom liner",
+      "High-visibility grey nylon interior",
+      "Hardware is anodized aluminum and glass-reinforced nylon",
+      "Super-durable UltraZips",
+      "Accents in leather (Charcoal, Ash, Midnight) or Hypalon (Black)"
+    ],
+    "details": [
+      {
+        "title": "20L SPECS",
+        "more_details": [
+          {
+            "title": "CAPACITY",
+            "description": ["17L min, 20L max"]
+          },
+          {
+            "title": "MAX LAPTOP CARRY",
+            "description": [
+              "38.1cm x 25.4cm x 2.5cm (15'x10'x1')",
+              "Holds 15/16” Macbook Pro"
+            ]
+          },
+          {
+            "title": "MAX TABLET CARRY",
+            "description": [
+              "30.6cm x 22.1cm x .7cm (12' x 8.7' x 0.3')",
+              "Holds 12.9' iPad Pro"
+            ]
+          },
+          {
+            "title": "EXTERNAL CARRY STRAP LENGTHS",
+            "description": ["Long: 49cm", "Short: 27cm"]
+          },
+          {
+            "title": "WEIGHT",
+            "description": [
+              "Without Dividers: 1.66kg (3.66lb)",
+              "With Dividers: 2.01kg (4.43lb)"
+            ]
+          },
+          {
+            "title": "SKU/PART NUMBER",
+            "description": [
+              "BEDB-20-BK-2 (Black)",
+              "BEDB-20-CH-2 (Charcoal)",
+              "BEDB-20-AS-2 (Ash)",
+              "BEDB-20-MN-2 (Midnight)"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "30L SPECS",
+        "more_details": [
+          {
+            "title": "CAPACITY",
+            "description": ["17L min, 20L max"]
+          },
+          {
+            "title": "MAX LAPTOP CARRY",
+            "description": [
+              "38.1cm x 25.4cm x 2.5cm (15'x10'x1')",
+              "Holds 15/16” Macbook Pro"
+            ]
+          },
+          {
+            "title": "MAX TABLET CARRY",
+            "description": [
+              "30.6cm x 22.1cm x .7cm (12' x 8.7' x 0.3')",
+              "Holds 12.9' iPad Pro"
+            ]
+          },
+          {
+            "title": "EXTERNAL CARRY STRAP LENGTHS",
+            "description": ["Long: 49cm", "Short: 27cm"]
+          },
+          {
+            "title": "WEIGHT",
+            "description": [
+              "Without Dividers: 1.66kg (3.66lb)",
+              "With Dividers: 2.01kg (4.43lb)"
+            ]
+          },
+          {
+            "title": "SKU/PART NUMBER",
+            "description": [
+              "BEDB-20-BK-2 (Black)",
+              "BEDB-20-CH-2 (Charcoal)",
+              "BEDB-20-AS-2 (Ash)",
+              "BEDB-20-MN-2 (Midnight)"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

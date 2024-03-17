@@ -1,0 +1,29 @@
+{
+  "data": [
+    {
+      "title": "CAMERA STRAPS",
+      "description": "QUICK-CONNECTING, VERSATILE, AND SERIOUSLY GOOD LOOKING",
+      "image": "/images/banners/camera-strap.webp"
+    },
+    {
+      "title": "EVERYDAY BAGS",
+      "description": "AWARD-WINNING BAGS FOR EVERYDAY & PHOTO CARRY",
+      "image": "/images/banners/everyday-bag.webp"
+    },
+    {
+      "title": "MOBILE ACCESSORIES",
+      "description": "PHONE CASES AND MOUNTS THAT LOOK BETTER & DO MORE",
+      "image": "/images/banners/mobile-accessories.webp"
+    },
+    {
+      "title": "POACHES & CUBES",
+      "description": "ORGANIZATIONAL BLISS FOR YOUR EVERYDAY & PHOTO GEAR",
+      "image": "/images/banners/poches-&-cubes.webp"
+    },
+    {
+      "title": "TRIPODS & ACCESSORIES",
+      "description": "PRO-LEVEL PERFORMANCE WITH UNMATCHED PORTABILITY",
+      "image": "/images/banners/tripod-&-accessories.webp"
+    }
+  ]
+}

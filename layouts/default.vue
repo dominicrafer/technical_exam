@@ -3,8 +3,8 @@
     <Header />
 
     <q-page-container>
-      <q-page>
-        <NuxtPage />
+      <q-page >
+        <NuxtPage  class="min-h-[500px]"/>
       </q-page>
     </q-page-container>
 

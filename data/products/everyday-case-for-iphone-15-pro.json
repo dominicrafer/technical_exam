@@ -1,0 +1,34 @@
+{
+  "id": 2,
+  "price": "199.99",
+  "header": {
+    "title": "EVERYDAY CASE FOR IPHONE 15 PRO",
+    "description": "A Magsafe-compatible phone case with the perfect balance of slimness, smart aesthetics, and protection, plus it brilliantly connects to the entire Peak Design Mobile Ecosystem. It's a case with zero compromise—and you don't have to take our word.",
+    "product_images": [
+      "/images/products/everyday-case-for-iphone-15-pro/1.webp",
+      "/images/products/everyday-case-for-iphone-15-pro/1.webp",
+      "/images/products/everyday-case-for-iphone-15-pro/1.webp",
+      "/images/products/everyday-case-for-iphone-15-pro/1.webp",
+      "/images/products/everyday-case-for-iphone-15-pro/1.webp",
+      "/images/products/everyday-case-for-iphone-15-pro/1.webp"
+    ],
+    "featured_image": "/images/products/everyday-case-for-iphone-15-pro/1.webp"
+  },
+  "features": [
+    {
+      "title": "",
+      "subtitle": "",
+      "list": []
+    }
+  ],
+  "specifications": {
+    "overview": [],
+    "materials": [],
+    "details": [
+      {
+        "title": "",
+        "description": ""
+      }
+    ]
+  }
+}

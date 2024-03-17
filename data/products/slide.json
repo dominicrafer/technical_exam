@@ -1,0 +1,33 @@
+{
+  "id": 3,
+  "price": "199.99",
+  "header": {
+    "title": "SLIDE",
+    "description": "The original Peak Design flagship camera strap, Slide is everything other pro camera straps aren't: beautiful, low-profile, adjustable, quick-connecting, and configurable to your gear. Wear Slide as a sling, neck, or shoulder strap. Internally-padded nylon webbing has a smooth side that glides over clothing in sling mode and a grippy side that prevents slipping in shoulder mode. Dual quick-adjusters provide instant access and easy reconfiguration. The unique Anchor Link system connects quickly and dual points of connection keep your camera more stable than traditional sling straps. Each Anchor holds over 200lbs (90kg), strong enough to keep the heaviest of pro rigs safe. As of 2018, Slide features an improved silicone grip, upgraded webbing, and lower profile strap/hardware transitions. Anchor connectors have been updated to be smaller, faster, and more secure.",
+    "product_images": [
+      "/images/products/slide/1.webp",
+      "/images/products/slide/1.webp",
+      "/images/products/slide/1.webp",
+      "/images/products/slide/1.webp",
+      "/images/products/slide/1.webp"
+    ],
+    "featured_image": "/images/products/slide/1.webp"
+  },
+  "features": [
+    {
+      "title": "",
+      "subtitle": "",
+      "list": []
+    }
+  ],
+  "specifications": {
+    "overview": [],
+    "materials": [],
+    "details": [
+      {
+        "title": "",
+        "description": ""
+      }
+    ]
+  }
+}

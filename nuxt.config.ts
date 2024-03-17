@@ -4,32 +4,30 @@ export default defineNuxtConfig({
   ssr: false,
   typescript: {
     strict: true,
-    typeCheck: true
+    typeCheck: true,
   },
-  modules: ["@nuxtjs/tailwindcss", "@nuxtjs/google-fonts", "@pinia/nuxt", "@pinia-plugin-persistedstate/nuxt", "nuxt-quasar-ui"],
-  googleFonts: {
-    /* module options */
-    families: {
-      Bryant: true // Include the Bryant font
-    },
-    display: "swap" // optional
-  },
-  css: ["@/assets/css/main.css"],
+  modules: [
+    "@nuxtjs/tailwindcss",
+    "@pinia/nuxt",
+    "@pinia-plugin-persistedstate/nuxt",
+    "nuxt-quasar-ui",
+  ],
+  css: ["@/assets/css/main.css", "@/assets/css/font.css"],
   quasar: {
     config: {
       brand: {
         primary,
-        secondary
-      }
-    }
+        secondary,
+      },
+    },
   },
   components: [
     {
       path: "~/components", // will get any components nested in let's say /components/test too
-      pathPrefix: false
-    }
+      pathPrefix: false,
+    },
   ],
   tailwindcss: {
-    exposeConfig: true
-  }
+    exposeConfig: true,
+  },
 });

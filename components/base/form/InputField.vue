@@ -9,11 +9,13 @@
     :error-message="errorMessage"
     :placeholder="placeholder"
     no-error-icon
-    class="px-2 text-primary bg-white rounded-lg"
-    borderless
+    class="px-2 text-primary bg-white rounded-lg items-end"
   >
     <template #label v-if="$slots.label">
       <slot name="label"></slot>
+    </template>
+    <template #prepend v-if="$slots.prepend">
+      <slot name="prepend"></slot>
     </template>
     <template #append v-if="$slots.append">
       <slot name="append"></slot>
