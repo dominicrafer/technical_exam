@@ -1,16 +1,9 @@
 import { defineStore } from "pinia";
-import product1 from "@/data/products/everyday-backpack.json";
-
 export const useCartStore = defineStore({
   id: "cart",
   state: (): any => {
     return {
-      products: [
-        {
-          ...product1,
-          quantity: 1,
-        },
-      ],
+      products: [],
     };
   },
   actions: {
@@ -30,18 +23,6 @@ export const useCartStore = defineStore({
     },
     remove(index: number) {
       this.products.splice(index, 1);
-    },
-    update(id: number, quantity: number) {
-      const { $_, $toast }: any = useNuxtApp();
-      const index = $_.findIndex(this.products, { id });
-
-      this.products[index].quantity = quantity;
-    },
-  },
-  getters: {
-    totalPrice: (state) => {
-      const route: any = useRoute();
-      const { $_ } = useNuxtApp();
     },
   },
 });

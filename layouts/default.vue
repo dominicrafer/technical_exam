@@ -4,7 +4,7 @@
 
     <q-page-container>
       <q-page >
-        <NuxtPage  class="min-h-[500px]"/>
+        <NuxtPage  class="min-h-[700px]"/>
       </q-page>
     </q-page-container>
 

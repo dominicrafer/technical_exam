@@ -4,10 +4,10 @@
       CART {{ cartStore.products.length }} ITEMS
     </p>
     <VForm>
-      <div class="flex flex-col">
+      <div class="flex flex-col gap-2">
         <div
           v-for="(productDetails, index) in cartStore.products"
-          :key="index"
+          :key="`${index}-${productDetails.header.title}`"
           class="p-4 flex items-start flex-nowrap border border-primary"
         >
           <div class="w-[100px] flex-grow-0">
@@ -58,13 +58,15 @@
     </VForm>
     <div class="bg-gray-100 p-3 mt-3 flex justify-between">
       <span>SUBTOTAL</span>
-      <span>{{
-        $_.sumBy(
-          cartStore.products,
-          (productDetails: any) =>
-            productDetails.quantity * productDetails.price
-        )
-      }}</span>
+      <span
+        >${{
+          $_.sumBy(
+            cartStore.products,
+            (productDetails: any) =>
+              productDetails.quantity * productDetails.price
+          )
+        }}</span
+      >
     </div>
     <Button color="positive" label="CHECKOUT" class="mt-2 w-full"></Button>
   </div>
