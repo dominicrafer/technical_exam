@@ -1,6 +1,3 @@
-NuxtJS - https://nuxt.com/docs/getting-started/introduction
-
-TailwindCSS - https://tailwindcss.com/
 ## Setup
 
 Make sure to install the dependencies:
