@@ -1,6 +1,7 @@
 import { defineStore } from "pinia";
 export const useCartStore = defineStore({
   id: "cart",
+  persist: true,
   state: (): any => {
     return {
       products: [],
@@ -23,6 +24,16 @@ export const useCartStore = defineStore({
     },
     remove(index: number) {
       this.products.splice(index, 1);
+    },
+  },
+  getters: {
+    totalPrice: (state) => {
+      const { $_ } = useNuxtApp();
+
+      return $_.sumBy(
+        state.products,
+        (product: any) => product.quantity * product.price
+      );
     },
   },
 });

@@ -79,11 +79,12 @@
 
 <script setup lang="ts">
 import { useProductsStore } from "@/store/products";
-const productStore = useProductsStore();
-const selectedProduct = productStore.selectedProductDetails;
-const focusedImage = ref(
-  productStore.selectedProductDetails?.header.featured_image
-);
+const { $_ } = useNuxtApp();
+const route: any = useRoute();
+const productStore: any = useProductsStore();
+const selectedProduct = $_.find(productStore.list, { id: parseInt(route.params.id) });
+productStore.select(selectedProduct);
+const focusedImage = ref(productStore.selectedProduct?.header.featured_image);
 const tab = ref("features");
 </script>
 <style lang="postcss" scoped></style>

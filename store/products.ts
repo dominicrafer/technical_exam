@@ -9,13 +9,12 @@ export const useProductsStore = defineStore({
   state: () => {
     return {
       list: [product1, product2, product3, product4, product5],
+      selectedProduct: {},
     };
   },
-  getters: {
-    selectedProductDetails: (state) => {
-      const route: any = useRoute();
-      const { $_ } = useNuxtApp();
-      return $_.find(state.list, { id: parseInt(route.params.id) });
+  actions: {
+    select(product: any) {
+      this.selectedProduct = product;
     },
   },
 });
